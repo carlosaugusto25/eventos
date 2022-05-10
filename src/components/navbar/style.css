@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #614EA6;
+}
+
+.nav-item a {
+    text-decoration: none;
+    color: #FFFFFF;
+    transition: .3s ease-in;
+}
+
+.nav-item a:hover {
+    color: #F21667;
+}
+
+.icon-mobile {
+    color:#FFFFFF;
+}
+
+.button-logout {
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+
+.button-logout:hover {
+    color: #F21667;
+}
